@@ -8,18 +8,18 @@ using Microsoft.Extensions.Logging;
 using AppisApp.Integration;
 using AppisApp.Integration.dto;
 
-namespace pc3.Controllers
+namespace AppisApp.Controllers
 {
     public class UsuarioController : Controller
     {
         private readonly ILogger<UsuarioController> _logger;
         private readonly ListarUsuariosApiIntegration _listUsers;
-        private readonly ListarUnUsuarioApiIntegration _unUser;
+        private readonly ListarUsuarioApiIntegration _unUser;
         private readonly CrearUsuarioApiIntegration _createUser;
 
         public UsuarioController(ILogger<UsuarioController> logger,
         ListarUsuariosApiIntegration listUsers,
-        ListarUnUsuarioApiIntegration unUser,
+        ListarUsuarioApiIntegration unUser,
         CrearUsuarioApiIntegration createUser)
         {
             _logger = logger;

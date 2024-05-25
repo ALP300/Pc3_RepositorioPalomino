@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppisApp.props" />
+</Project>
