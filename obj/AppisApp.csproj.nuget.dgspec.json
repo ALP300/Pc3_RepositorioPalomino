@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESCRITORIO\\pc3_Palomino\\AppisApp\\AppisApp.csproj": {}
+    "D:\\ESCRITORIO\\ProyectoPC3\\Pc3_RepositorioPalomino\\AppisApp.csproj": {}
   },
   "projects": {
-    "D:\\ESCRITORIO\\pc3_Palomino\\AppisApp\\AppisApp.csproj": {
+    "D:\\ESCRITORIO\\ProyectoPC3\\Pc3_RepositorioPalomino\\AppisApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESCRITORIO\\pc3_Palomino\\AppisApp\\AppisApp.csproj",
+        "projectUniqueName": "D:\\ESCRITORIO\\ProyectoPC3\\Pc3_RepositorioPalomino\\AppisApp.csproj",
         "projectName": "AppisApp",
-        "projectPath": "D:\\ESCRITORIO\\pc3_Palomino\\AppisApp\\AppisApp.csproj",
+        "projectPath": "D:\\ESCRITORIO\\ProyectoPC3\\Pc3_RepositorioPalomino\\AppisApp.csproj",
         "packagesPath": "C:\\Users\\aitor\\.nuget\\packages\\",
-        "outputPath": "D:\\ESCRITORIO\\pc3_Palomino\\AppisApp\\obj\\",
+        "outputPath": "D:\\ESCRITORIO\\ProyectoPC3\\Pc3_RepositorioPalomino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
