@@ -7,14 +7,14 @@ using AppisApp.Integration.dto;
 
 namespace AppisApp.Integration
 {
-    public class ListarUnUsuarioApiIntegration
+    public class ListarUsuarioApiIntegration
     {
-        private readonly ILogger<ListarUnUsuarioApiIntegration> _logger;
+        private readonly ILogger<ListarUsuarioApiIntegration> _logger;
 
         private const string API_URL = "https://reqres.in/api/users/";
         private readonly HttpClient httpClient;
 
-        public ListarUnUsuarioApiIntegration(ILogger<ListarUnUsuarioApiIntegration> logger)
+        public ListarUsuarioApiIntegration(ILogger<ListarUsuarioApiIntegration> logger)
         {
             _logger = logger;
             httpClient = new HttpClient();
