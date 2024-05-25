@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppisApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a756d020bed1479e0aa7b9956010273ed95956c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ecde3594d416637fd1844d0ceb0d8ed4b2a598")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppisApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppisApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
